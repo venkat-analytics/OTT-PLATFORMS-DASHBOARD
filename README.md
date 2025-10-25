@@ -1,6 +1,6 @@
 # 🎬 OTT Platforms Dashboard – Netflix & Amazon Prime
 
-![PowerBI](https://img.shields.io/badge/Tool-PowerBI-green?logo=microsoft-PowerBI&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-red?logo=microsoft-PowerBI&logoColor=white)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Process-Data%20Cleaning-blue)
 ![Data Modeling](https://img.shields.io/badge/Process-Data%20Modeling-orange)
