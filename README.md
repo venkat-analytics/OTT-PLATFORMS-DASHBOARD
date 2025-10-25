@@ -56,6 +56,7 @@ The goal of this project is to compare Netflix and Amazon Prime Video to underst
 ## 📈 Dashboard Insights
 
 ### 🎥 Netflix Dashboard
+
 <img width="1330" height="732" alt="NETFLIX Dashboard Screenshot" src="https://github.com/user-attachments/assets/9bc76d92-db64-4f91-8e6a-157de3298285" />
 
 
@@ -74,7 +75,9 @@ The goal of this project is to compare Netflix and Amazon Prime Video to underst
 ---
 
 ### 📺 Amazon Prime Dashboard
-![Amazon Prime Dashboard Preview](Amazon_Prime_Dashboard.png)
+
+<img width="1328" height="735" alt="AMAZON_PRIME Dashboard Screenshot" src="https://github.com/user-attachments/assets/8f6bcac9-b45f-4766-905c-17eae28a3f8e" />
+
 > **Theme:** Blue | **Tool:** Power BI | **Platform:** Amazon Prime Video  
 **Key Metrics:**
 - **Total Shows:** 9.67K  
