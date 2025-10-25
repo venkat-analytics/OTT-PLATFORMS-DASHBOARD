@@ -56,7 +56,8 @@ The goal of this project is to compare Netflix and Amazon Prime Video to underst
 ## 📈 Dashboard Insights
 
 ### 🎥 Netflix Dashboard
-<img width="1707" height="859" alt="Screenshot 2025-09-05 234404" src="https://github.com/venkat-analytics/OTT-PLATFORMS-DASHBOARD/blob/main/NETFLIX%20Dashboard%20Screenshot.png />
+<img width="1330" height="732" alt="NETFLIX Dashboard Screenshot" src="https://github.com/user-attachments/assets/9bc76d92-db64-4f91-8e6a-157de3298285" />
+
 
 > **Theme:** Red | **Tool:** Power BI | **Platform:** Netflix  
 
