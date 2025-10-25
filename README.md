@@ -1,5 +1,14 @@
 # 🎬 OTT Platforms Dashboard – Netflix & Amazon Prime
 
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-green?logo=microsoft-PowerBI&logoColor=white)
+![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Process-Data%20Cleaning-blue)
+![Data Modeling](https://img.shields.io/badge/Process-Data%20Modeling-orange)
+![Macros](https://img.shields.io/badge/Automation-Macros-red)
+![Visualization](https://img.shields.io/badge/Focus-Data%20Visualization-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+---
+
 This project provides a comprehensive analysis of two major OTT platforms — **Netflix** and **Amazon Prime Video** — using **Excel** for data cleaning and **Power BI** for data modeling and visualization.  
 The dashboards deliver deep insights into platform content trends, IMDb ratings, genres, and regional contributions.
 
