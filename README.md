@@ -128,12 +128,16 @@ Together, these dashboards help visualize the evolving **OTT content landscape**
 
 ---
 
-## 🧑‍💻 Author
-**Kunapareddy Venkata Ramaiah**  
-📍 Hyderabad, India  
-🎓 IT Undergraduate | Aspiring Data Analyst  
-💼 Skills: Excel | Power BI | SQL | Python  
-🌐 [LinkedIn Profile](#) | [GitHub Portfolio](#)
+
+📬 Contact
+
+👤 Kunapareddy Venkata Ramaiah
+
+📧 Email: [venkat198881@gmail.com]
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/venkat-7b7197334/?trk=public-profile-join-page)
+               
+🔗 [Portfolio Website](https://venkat-analytics.github.io/My_Portfolio/) 
 
 
 ---
