@@ -29,8 +29,7 @@ The goal of this project is to compare Netflix and Amazon Prime Video to underst
 | **Microsoft Excel** | Data cleaning, transformation, and preprocessing |
 | **Power BI** | Data modeling, visualization, and dashboard creation |
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="13%" />
-<img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="13%" />
+
 
 ---
 
